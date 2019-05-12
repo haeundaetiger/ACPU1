@@ -61,8 +61,4 @@
 
 </body>
 
-<style>
-
-body{background-color: skyblue}
-
 </html>
