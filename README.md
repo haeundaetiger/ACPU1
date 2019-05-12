@@ -7,8 +7,6 @@
 
 <body>
 
-
-
   <h1>서승호's fan page'</h1>
 
   <img src="KakaoTalk_20190504_002004928.jpg" width="20%">
